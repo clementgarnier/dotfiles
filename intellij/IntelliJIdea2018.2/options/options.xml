@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="malformed format&#10;fallthrough&#10;object comparison&#10;missing @depre&#10;old style&#10;long literal" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="close" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="proto&#10;protocol buffers&#10;go&#10;golang&#10;Error-prone" />
+    <property name="SearchEveryWhereHistory" value="/&#10;PaginatedResult" />
+    <property name="SettingsSearchHistory" value="shortcut&#10;optimize import&#10;plugin&#10;line&#10;memory" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.gist.reindex.count" value="31732" />
+    <property name="go.last.update.timestamp" value="1536697136472" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.51-release-IJ2018.2-1" />
+    <property name="lastTip" value="1" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>
